@@ -1,7 +1,7 @@
 ### Hey! I’m Patrick Kellar (@pjkellar) 👋
 - 🥞 I'm a Fullstack Developer working remotely from Ontario, Canada 🍁
 - 👀 I’m well versed in HTML, CSS, Javascript and have a deep understanding of SQL and relational databases
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning ~~Node.js and React~~ Laravel, TailwindCSS, Livewire, Alpine!
 - 💞️ I’m looking to collaborate on projects to help me hone my skills!
 - 📫 How to reach me: <pjkellar@gmail.com>
 
