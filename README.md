@@ -21,10 +21,13 @@ For the most part I try to at least stay in touch with the current trends, so I 
 
 I’ve started finding open source projects that I can contribute to in my spare time, I’ve also committed to start blogging (more about that soon…)
 
-If you like what you see, or want to get in touch, you can reach out at [@pjkellar](https://twitter.com/pjkellar)  on Twitter (if it’s still around when you are reading this…) or check out my website: [https://patrickkellar.ca](https://patrickkellar.ca), or you can send me an email: <pjkellar@gmail.com>
+If you like what you see, or want to get in touch, you can reach out at:
+- [@pjkellar](https://twitter.com/pjkellar) on Twitter (if it’s still around when you are reading this…)
+- I'm on [LinkedIn](https://linkedin.com/pjkellar), too!
+- Or, heck out my website: [https://patrickkellar.ca](https://patrickkellar.ca)
+- Or, just send me an email: <pjkellar@gmail.com>
 
 ✌️
-
 
 ---
 [![Patrick Kellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjkellar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
