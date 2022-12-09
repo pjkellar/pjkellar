@@ -5,7 +5,7 @@ At work, I am a Full Stack Developer for a **K-12 School Board in Ontario, Canad
 
 When I am not working you’ll find me hanging out with my Wife and two dogs, Bear and Teddy. If the weather is warm you will catch me out for a tour in the twistys on my motorcycle — I recently picked up a 2018 Triumph Street Triple RS 765!
 
-I enjoy tinkering on wood working projects in the garage, ranging from little things like cutting boards, wood signs, etc. — all the way up to full-on furniture, like tables, desks (like the one my keyboard is on right now)
+I enjoy tinkering on wood working projects in the garage, ranging from little things like cutting boards, wood signs, etc. — all the way up to full-on furniture, like tables, desks (like the one my keyboard is on right now).
 
 ### Work Stuff
 
@@ -17,15 +17,15 @@ Most of the time nowadays you’ll find me using the **TALL stack (Tailwind CSS,
 
 I’ve deployed apps to on-prem servers, Azure app service, Docker, and for rapid development I use services like [surge.sh](http://surge.sh) to get something up fast and easy.
 
-For the most part I try to at least stay in touch with the current trends, so I will often dabble in new tech or frameworks just to get a sense for what’s out there. Well written docs make it so easy to jump into something new and get up-to-speed quickly (I’m looking at you Laravel…)
+For the most part I try to at least stay in touch with the current trends, so I will often dabble in new tech or frameworks just to get a sense for what’s out there. Well written docs make it so easy to jump into something new and get up-to-speed quickly (I’m looking at you Laravel…).
 
-I’ve started finding open source projects that I can contribute to in my spare time, I’ve also committed to start blogging (more about that soon…)
+I’ve started looking into open source projects I can contribute to in my spare time, as well I have a couple ideas floating around that I think would make for potential packages that I'd like to develop. I’ve also committed myself to start blogging! (more about that soon…).
 
 If you like what you see, or want to get in touch, you can reach out at:
 - [@pjkellar](https://twitter.com/pjkellar) on Twitter (if it’s still around when you are reading this…)
-- I'm on [LinkedIn](https://linkedin.com/pjkellar), too!
-- Or, heck out my website: [https://patrickkellar.ca](https://patrickkellar.ca)
-- Or, just send me an email: <pjkellar@gmail.com>
+- I'm on [LinkedIn](https://www.linkedin.com/in/patrickjameskellar/), too!
+- Or, check out my website: [https://patrickkellar.ca](https://patrickkellar.ca)
+- Or, if you want to go old-school, send me an email: <pjkellar@gmail.com>
 
 ✌️
 
