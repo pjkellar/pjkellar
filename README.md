@@ -24,6 +24,7 @@ I’ve started looking into open source projects I can contribute to in my spare
 If you like what you see, or want to get in touch, you can reach out at:
 - [@pjkellar](https://twitter.com/pjkellar) on Twitter (if it’s still around when you are reading this…)
 - I'm on [LinkedIn](https://www.linkedin.com/in/patrickjameskellar/), too!
+- Visit [Credly Profile](https://www.credly.com/users/patrick-kellar)
 - Or, check out my website: [https://patrickkellar.ca](https://patrickkellar.ca)
 - Or, if you want to go old-school, send me an email: <pjkellar@gmail.com>
 
@@ -31,7 +32,6 @@ If you like what you see, or want to get in touch, you can reach out at:
 
 ---
 [![Patrick Kellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjkellar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 pjkellar/pjkellar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
