@@ -25,7 +25,7 @@ If you like what you see, or want to get in touch, you can reach out at:
 - [@pjkellar](https://twitter.com/pjkellar) on Twitter (if it’s still around when you are reading this…)
 - I'm on [LinkedIn](https://www.linkedin.com/in/patrickjameskellar/), too!
 - Visit [Credly Profile](https://www.credly.com/users/patrick-kellar)
-- Or, check out my website: [https://patrickkellar.ca](https://patrickkellar.ca)
+- Or, check out my website: [https://patrickkellar.dev](https://patrickkellar.dev)
 - Or, if you want to go old-school, send me an email: <pjkellar@gmail.com>
 
 ✌️
