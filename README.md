@@ -1,32 +1,24 @@
-## Hi, I’m Patrick 👋
+# Hi! I'm Patrick 👋
 
-### About me
-At work, I am a Full Stack Developer for a **K-12 School Board in Ontario, Canada** — working remotely. I often find myself wearing many hats. Typically you’ll find me juggling my Full Stack role with DBA, Sysadmin, DevOps, among others...
+## TLDR
+I'm a seasoned Full-Stack Software Engineer with 13+ years of tech experience, specializing in PHP, APIs, and process efficiency. Passionate about coding, motorcycling, and family. Connect with me on [Twitter](https://twitter.com/pjkellar), or [email](mailto:pjkellar@gmail.com), and check out my insights on [patrickkellar.dev](https://patrickkellar.dev/).
 
-When I am not working you’ll find me hanging out with my Wife and two dogs, Bear and Teddy. If the weather is warm you will catch me out for a tour in the twistys on my motorcycle — I recently picked up a 2018 Triumph Street Triple RS 765!
+## About Me
+I'm a Senior-Level Full-Stack Software Engineer working remotely from Ontario, Canada. My journey in the tech industry has taken me from Systems Admin, to Database Admin, and now to Software Engineering, resulting in over 13 years of rich, varied experience with a strong foundation of computer science principals. I believe in simplicity and elegance when it comes to writing and designing software. 🚀
 
-I enjoy tinkering on wood working projects in the garage, ranging from little things like cutting boards, wood signs, etc. — all the way up to full-on furniture, like tables, desks (like the one my keyboard is on right now).
+🧰 PHP is where I am most comfortable. Over the years I've honed skills in an array of technologies, more than I can list here. A few of the more recent ones are: TailwindCSS, Alpine.js, Laravel, and Livewire (The TALL Stack), Vue, React (more specifically Next.js), Docker, Git, Azure, AWS, Laravel Vapor, Redis, MSSQL, MySQL, Powershell, and Javascript/Typescript. Whether it's Windows, MacOS, or Linux, I'm at home on any platform.
 
-### Work Stuff
+💻 My expertise extends to designing and building APIs, syncing with third-party APIs, integrating AI into software processes, and building identity automation solutions for school boards. I've developed both internal tools and public-facing applications. I consider security to be a top priority. I'm driven by my passion for automation and efficiency - for me, there's no greater satisfaction than perfecting a system's workflow!
 
-I’ve logged over **10+ years** in the tech industry, with a large portion of that being in the Education sector (K-12 and Post Secondary). I have worked both in Teams, and alone; on large projects and small projects.
+🎯 I've navigated significant projects and am always ready to embrace the next challenge. I'm also excitedly considering an exploration into GO or Rust, considering all the hype I'm seeing around them.
 
-### My Current Stack
+☕️ When I need a break from the screen, you'll often find me chasing the horizon on my motorcycle. I've recently picked up a '18 Triumph Street Triple RS, there's just something about that triple cylinder engine whistle that makes my heart happy. Although I'm not racing on the Isle of Man, there's nothing like a spirited ride to unwind and reset. Speaking of unwinding and resetting, I love to spend time with my Wife and our two dogs, Bear and Teddy.
 
-Most of the time nowadays you’ll find me using the **TALL stack (Tailwind CSS, Alpine JS, Laravel, and Livewire)**. It’s fast, scalable, and allows for rapid development and prototyping of ideas. If I need to script something, it’s either Powershell or Bash, depending on which OS I am using.
-
-I’ve deployed apps to on-prem servers, Azure app service, Docker, and for rapid development I use services like [surge.sh](http://surge.sh) to get something up fast and easy.
-
-For the most part I try to at least stay in touch with the current trends, so I will often dabble in new tech or frameworks just to get a sense for what’s out there. Well written docs make it so easy to jump into something new and get up-to-speed quickly (I’m looking at you Laravel…).
-
-I’ve started looking into open source projects I can contribute to in my spare time, as well I have a couple ideas floating around that I think would make for potential packages that I'd like to develop. I’ve also committed myself to start blogging! (more about that soon…).
-
-If you like what you see, or want to get in touch, you can reach out at:
-- [@pjkellar](https://twitter.com/pjkellar) on Twitter (if it’s still around when you are reading this…)
-- I'm on [LinkedIn](https://www.linkedin.com/in/patrickjameskellar/), too!
-- Visit [Credly Profile](https://www.credly.com/users/patrick-kellar)
-- Or, check out my website: [https://patrickkellar.dev](https://patrickkellar.dev)
-- Or, if you want to go old-school, send me an email: <pjkellar@gmail.com>
+### Connect with me
+📫 Want to connect? There are several ways to get ahold of me:
+- I'm on twitter at [@pjkellar](https://twitter.com/pjkellar)
+- You can send me an [email](mailto:pjkellar@gmail.com)
+- If you're up for a read or want to see what I've been up too you can check out my blog at [patrickkellar.dev](https://patrickkellar.dev)
 
 ✌️
 
