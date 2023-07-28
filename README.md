@@ -12,7 +12,7 @@ I'm a Senior-Level Full-Stack Software Engineer working remotely from Ontario, C
 
 🎯 I've navigated significant projects and am always ready to embrace the next challenge. I'm also excitedly considering an exploration into GO or Rust, considering all the hype I'm seeing around them.
 
-☕️ When I need a break from the screen, you'll often find me chasing the horizon on my motorcycle. I've recently picked up a '18 Triumph Street Triple RS, there's just something about that triple cylinder engine whistle that makes my heart happy. Although I'm not racing on the Isle of Man, there's nothing like a spirited ride to unwind and reset. Speaking of unwinding and resetting, I love to spend time with my Wife and our two dogs, Bear and Teddy.
+☕️ When I need a break from the screen, you'll often find me chasing the horizon on my motorcycle. I've recently picked up a '18 Triumph Street Triple RS, there's just something about that triple cylinder engine whistle that makes my heart happy. Although I'm not racing on the Isle of Man, there's nothing like a spirited ride to unwind and reset. Speaking of unwinding and resetting, I love to spend time with my Wife! She just got her Motorcycle license so now we can chase the horizon together! Then we can head home and see our two dogs, Bear and Teddy.
 
 ### Connect with me
 📫 Want to connect? There are several ways to get ahold of me:
