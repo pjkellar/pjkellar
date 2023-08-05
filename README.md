@@ -1,7 +1,9 @@
 # Hi! I'm Patrick 👋
 
 ## TLDR
-I'm a seasoned Full-Stack Software Engineer with 13+ years of tech experience, specializing in PHP, APIs, and process efficiency. Passionate about coding, motorcycling, and family. Connect with me on [Twitter](https://twitter.com/pjkellar), or [email](mailto:pjkellar@gmail.com), and check out my insights on [patrickkellar.dev](https://patrickkellar.dev/).
+I'm a seasoned Full-Stack Software Engineer with 13+ years of experience who is fluent in multiple languages and frameworks. These days I prefer to work with modern PHP. I've designed and built both large and small applications, and I'm well-versed in optimization, process efficiency, and database architecture. My interests range from technology and coding to motorcycling and family.
+
+Connect with me on [X (...Twitter)](https://twitter.com/pjkellar), or [email](mailto:pjkellar@gmail.com), or check out my personal website [patrickkellar.dev](https://patrickkellar.dev/).
 
 ## About Me
 I'm a Senior-Level Full-Stack Software Engineer working remotely from Ontario, Canada. My journey in the tech industry has taken me from Systems Admin, to Database Admin, and now to Software Engineering, resulting in over 13 years of rich, varied experience with a strong foundation of computer science principals. I believe in simplicity and elegance when it comes to writing and designing software. 🚀
